@@ -1,0 +1,5 @@
+name = CI Server
+description = Creates a lightweight CI Server from Drupal
+core = 7.x
+
+dependencies[] = views
